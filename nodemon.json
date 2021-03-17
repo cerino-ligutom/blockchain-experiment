@@ -1,0 +1,4 @@
+{
+	"exec": "tsc && node index.js",
+	"ext": "*.ts"
+}

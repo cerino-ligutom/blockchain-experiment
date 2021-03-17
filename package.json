@@ -1,0 +1,28 @@
+{
+	"name": "blockchain-experiment",
+	"main": "index.js",
+	"private": true,
+	"scripts": {
+		"start": "nodemon"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cerino-ligutom/blockchain-experiment.git"
+	},
+	"keywords": [],
+	"author": {
+		"email": "zeferinix@gmail.com",
+		"name": "Cerino O. Ligutom III",
+		"url": "https://www.zeferinix.com"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/cerino-ligutom/blockchain-experiment/issues"
+	},
+	"homepage": "https://github.com/cerino-ligutom/blockchain-experiment#readme",
+	"devDependencies": {
+		"@types/node": "^14.14.35",
+		"nodemon": "^2.0.7",
+		"typescript": "^4.2.3"
+	}
+}
