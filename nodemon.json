@@ -1,4 +1,4 @@
 {
-	"exec": "tsc && node index.js",
+	"exec": "tsc && node ./build/index.js",
 	"ext": "*.ts"
 }
